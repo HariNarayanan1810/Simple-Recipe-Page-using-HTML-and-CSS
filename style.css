@@ -1,0 +1,80 @@
+body{
+	background-color: hsl(30, 54%, 90%);
+	margin: 0;
+	line-height: 2;
+	font-size: 16px;
+	color:  hsl(30, 10%, 34%);
+
+}
+h1{
+	margin: 0;
+	font-family: "Young Serif", serif;
+	font-weight: normal;
+}
+
+h2{
+	color: hsl(14, 45%, 36%);
+	font-family: "Young Serif", serif;
+	font-weight: normal;
+}
+
+h3{
+	color: hsl(332, 51%, 32%);
+	margin-left: 20px;
+	 font-family: "Outfit", sans-serif;
+	font-weight: normal;
+
+}
+
+.II li{
+	margin-left: -2%;
+}
+
+li{
+	padding-left: 5%;
+	
+
+}
+
+img{
+	border-radius: 10px;
+}
+
+.maincont{
+	width: 50%;
+	background-color: ghostwhite;
+	margin: 5% auto;
+	padding: 30px;
+	border-radius: 20px;
+	
+}
+
+.timing{
+	width: 100%;
+	background-color: hsl(330, 100%, 98%);
+}
+
+.timing li{
+	margin-left: 0;
+}
+
+table{
+	margin: auto;
+	
+	
+	width: 90%;
+}
+
+
+
+.nutri ul li{
+	display: flex;
+/*	align-items: center;*/
+	justify-content: space-around;
+	border-bottom: 1px solid;
+	padding: 2px;
+}
+
+.nutri ul li:last-child{
+	border-bottom: none;
+}
